@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "cstring": "c",
-        "array": "c",
-        "string": "c",
-        "string_view": "c"
-    }
-}
